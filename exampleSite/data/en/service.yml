@@ -36,7 +36,7 @@ service:
   title: Por qué elegirnos
   description: ''
   service_item:
-  - icon: ion-body
+  - icon: ion-ios-body
     name: Clientes satisfechos
     content: Somos la empresa más recomendada del sector online y con el mayor ratio
       de clientes satisfechos.
