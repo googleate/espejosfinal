@@ -50,11 +50,6 @@ hasChildren = true
 name = "Whatsapp"
 weight = "5"
 [[Languages.en.menu.main]]
-URL = "faq"
-name = "FAQs"
-parent = "Pages"
-weight = "7"
-[[Languages.en.menu.main]]
 URL = "contact"
 name = "Pedidos"
 weight = 6
