@@ -3,10 +3,18 @@ about:
   enable: true
   image: images/about.jpg
   title: Acerca de nosotros
-  content: Somos una empresa española que fabrica espejos de maquillaje a mano con
-    mucho amor y dedicación. Una larga trayectoria nos avala con cientos de clientes
-    muy exigentes, profesionales del mundo del maquillaje, cine, televisión, teatro,
-    muchos de los influencer más famosos ya nos tienen en sus casas.
+  content: |-
+    EspejosdeMaquillaje.es nace de una idea pionera en el mundo del maquillaje, de los pensamientos de nuestra maquilladora internacional Noelia Navarro. Líderes en el sector no sólo por calidad de nuestros materiales sino por la constante evolución de la técnica artística.
+
+    Nuestros productos están orientados siempre al mundo del maquillaje y es por eso que nuestras bombillas son LED con alternancia de luz fría y cálida. Un equipo humano al que le gusta el trato cercano con el cliente por eso desde que muestra interés por un producto, le asesoramos y mostramos el abanico de posibilidad acorde a sus necesidades.
+
+    Fabricamos completamente artesanal con buenos materiales elegidos y pensados para maquilladores con certificación UE. Nuestros diseños son sencillos y de alta durabilidad, nos avalan peluquerías, tiendas de estética, estudios de cine y TV son nuestros principales clientes pero sin dejar de lado al usuario particular que simplemente quiere darse el capricho de tener un buen espejo de maquillaje en casa.
+
+    Ponga sus reflejos en nuestras manos y no se arrepentirá.
+
+    Noelia Maquilladora. Cuando empecé en este proyecto me propuse el reto de que nuestros espejos fueran definitivos.
+
+    César Ingeniero Electrónico. Me encanta poner mi toque técnico en cada espejo. Le dedico el mayor cariño y dedicación, por eso logramos tan buenos resultados y la gente nos recomienda.
   button:
     enable: true
     label: Hacer un pedido
