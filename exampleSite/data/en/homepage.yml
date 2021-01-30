@@ -11,16 +11,14 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  title: CALIDAD PROFESIONAL A TU ALCANCE
+  description: |2-
+
+    *Nuestra tienda vende los espejos y sus accesorios, de momento no comercializamos mesas ni sillas.
+  content: |
+    Nuestros espejos de maquillaje están construidos con los más altos estándares de seguridad y calidad del mercado. Desde los casquillos de las bombillas, hasta el pequeño interruptor y las luces LED de alta intensidad, con alternancia entre luz cálida y fría para el correcto reflejo de la piel.
+
+    Nuestros espejos son de 5mm de grosor, con canto pulido. Los tableros aligerados y fáciles de colgar, harán que su instalación sea rápida y sencilla. Todos los modelos son configurables para adaptarnos a tus necesidades, como un mando a distancia, un enchufe, un interruptor…
   image: images/wrapper-img.png
 portfolio:
   enable: true
