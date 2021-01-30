@@ -54,3 +54,4 @@ service:
       plataformas PayPal y Stripe.
 cta:
   enable: true
+  bg_image: images/enviosespejos.jpg
