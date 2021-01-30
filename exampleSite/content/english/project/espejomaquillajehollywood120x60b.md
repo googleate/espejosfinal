@@ -5,6 +5,8 @@ image: "/images/espejomaquillajeblanco.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Blanco
 information:
+- label: Precio
+  info: 199€
 - label: Dimensiones
   info: 120 x 60cm
 - label: Color
