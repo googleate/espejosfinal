@@ -40,7 +40,7 @@ service:
     name: Clientes satisfechos
     content: Somos la empresa más recomendada del sector online y con el mayor ratio
       de clientes satisfechos.
-  - icon: ion-cofee
+  - icon: ion-coffee
     name: Tranquilidad
     content: Tú sólo dinos qué espejo necesitas y nosotros nos encargamos de todo.
       Diseño, fabricación y envío.
