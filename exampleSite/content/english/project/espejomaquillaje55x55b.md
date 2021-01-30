@@ -3,7 +3,7 @@ title: Espejo Maquillaje 55 x 55cm blanco
 description: Haga click en el nombre
 image: "/images/espejoblancopequeno-12.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
-category: Video
+category: blanco
 information:
 - label: Dimensiones
   info: 55 x 55cm
