@@ -71,12 +71,11 @@ funfacts:
     name: Combined Projects
     count: "352"
   testimonial_slider:
-  - name: Raymond Roy
+  - name: Manu88
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: cliente
+    content: El espejo ha quedado exacto a las medidas para mi salón de belleza y
+      la iluminación no tiene nada que ver con el que tenía antes. Muy recomendable.
   - name: Randi Renin
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
