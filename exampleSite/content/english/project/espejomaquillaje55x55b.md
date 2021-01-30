@@ -12,7 +12,7 @@ information:
 - label: Color
   info: Blanco
 - label: Materiales
-  info: Tablero de partículas y fibras
+  info: Tablero, partículas fibras
 - label: Iluminación
   info: 10 bombilas LED de 10W
 
