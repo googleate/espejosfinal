@@ -38,19 +38,19 @@ name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
 URL = "/"
-name = "Home"
+name = "Inicio"
 weight = 1
 [[Languages.en.menu.main]]
 URL = "about"
-name = "About"
+name = "Acerca de "
 weight = 2
 [[Languages.en.menu.main]]
 URL = "project"
-name = "Project"
+name = "Productos"
 weight = 3
 [[Languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
+URL = "https://www.instagram.com/espejosdemaquillaje.es/?hl=es"
+name = "Instagram"
 weight = 4
 [[Languages.en.menu.main]]
 hasChildren = true
