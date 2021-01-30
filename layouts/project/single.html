@@ -12,10 +12,13 @@
       </div>
       <div class="col-md-4">
         <div class="project-details">
+          
           <h4>Project Details</h4>
           <ul>
             {{ range .Params.Information }}
+            <li><span>Precio :</span> <FONT SIZE=5><strong>199€<FONT SIZE=2> (envío incluido)</strong></li>
             <li><span>{{ .label }} :</span> <strong>{{ .info | markdownify }}</strong></li>
+            <p><a href="https://espejosdemaquillaje.es/contact/" title="Pedido"><img src="/images/boton.png" alt=""></a></p>
             {{ end }}
           </ul>
         </div>
