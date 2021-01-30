@@ -1,5 +1,5 @@
 ---
-title: Espejo Maquillaje 55 x 55cm blanco
+title: Modelo Economy 55 x 55cm blanco
 description: Haga click en el nombre
 image: "/images/espejoblancopequeno-12.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
