@@ -34,7 +34,7 @@ service:
   enable: true
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: images/enviosespejosgratis.jpg
   title: OFERTAS
   content: Sólo este mes oferta especial para nuestra tienda online de espejos de
     maquillaje ¡¡Todos los envíos a la península GRATIS!!!
