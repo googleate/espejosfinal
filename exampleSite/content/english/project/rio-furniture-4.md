@@ -47,4 +47,4 @@ information:
 
 #### Galería de fotos del producto:
 
-![](/images/foto-tocador_022.png)![](/images/foto-tocador_032.png)![](/images/foto-tocador_062.png)![](/images/foto-tocador_052.png)![](/images/foto-tocador_042.png)![](/images/foto-tocador_032.png)![](/images/foto-tocador_022.png)![](/images/foto-tocador_011.png)
+![](/images/foto-tocador_022.png)![](/images/foto-tocador_032.png)![](/images/foto-tocador_062.png)![](/images/foto-tocador_052.png)![](/images/foto-tocador_042.png)![](/images/foto-tocador_011.png)
