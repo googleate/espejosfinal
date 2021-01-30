@@ -3,7 +3,7 @@ title: Economy 55x55 Madera
 description: Click en el nombre para ver detalles o la lupa para ampliar
 image: "/images/espejomaderapequeno-12.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
-category: UI/UX Design
+category: Madera
 information:
 - label: Precio
   info: 119€
