@@ -5,18 +5,16 @@ image: "/images/foto-tocador_01.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: 120x60
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+- label: Precio
+  info: 199€ (envío inc.)
+- label: Dimensiones
+  info: 120 x 60cm
+- label: Color
+  info: Blanco
+- label: Materiales
+  info: Tablero de partículas y fibra
+- label: 'Iluminación '
+  info: 13 bombillas LED 10W
 
 ---
 ## Este modelo 120x60cm está adaptado al tocador más vendido del mercado
