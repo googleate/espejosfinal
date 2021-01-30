@@ -1,6 +1,6 @@
 ---
 title: Economy 55x55 Madera
-description: Haga click en el nombre para más detalles
+description: Click en el nombre para ver detalles o la lupa para ampliar
 image: "/images/espejomaderapequeno-12.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: UI/UX Design
