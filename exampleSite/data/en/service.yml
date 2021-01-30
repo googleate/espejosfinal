@@ -48,10 +48,10 @@ service:
     name: Entregamos más rápido
     content: Nuestras entregas son las más rápidas y con seguro incluído. Garantizamos
       que el espejo te llegará en perfecto estado.
-  - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-card
+    name: COMPRA SEGURA ONLINE
+    content: Nuestro comercio electrónico practica la compra segura a través de las
+      plataformas PayPal y Stripe.
   - icon: ion-headphone
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
