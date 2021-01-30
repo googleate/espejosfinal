@@ -5,6 +5,8 @@ image: "/images/espejoblancopequeno-12.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Blanco
 information:
+- label: Precio
+  info: 119€ (envio inc.)
 - label: Dimensiones
   info: 55 x 55cm
 - label: Color
