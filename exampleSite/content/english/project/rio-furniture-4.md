@@ -5,8 +5,6 @@ image: "/images/foto-tocador_01.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: 120x60
 information:
-- label: Precio
-  info: 199€ (envío inc.)
 - label: Dimensiones
   info: 120 x 60cm
 - label: Color
