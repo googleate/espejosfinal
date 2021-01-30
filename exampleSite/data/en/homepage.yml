@@ -52,23 +52,24 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Acerca de Nosotros
+  description: Somos una empresa española que fabrica espejos de maquillaje a mano
+    con mucho amor y dedicación. Una larga trayectoria nos avala con cientos de clientes
+    muy exigentes, profesionales del mundo del maquillaje, cine, televisión, teatro,
+    muchos de los influencer más famosos ya nos tienen en sus casas.
   funfact_item:
   - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
+    name: Clientes contactados
+    count: "3128"
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+    name: Modelos diseñados
+    count: "9"
   - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
+    name: Peticiones completadas
+    count: "352"
   - icon: ion-ios-timer-outline
     name: Combined Projects
-    count: "200"
+    count: "352"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
