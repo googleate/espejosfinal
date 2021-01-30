@@ -53,6 +53,7 @@ weight = "5"
 URL = "faq"
 name = "FAQs"
 parent = "Pages"
+weight = "7"
 [[Languages.en.menu.main]]
 URL = "contact"
 name = "Pedidos"
