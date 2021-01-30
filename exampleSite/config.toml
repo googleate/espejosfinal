@@ -53,24 +53,17 @@ URL = "https://www.instagram.com/espejosdemaquillaje.es/?hl=es"
 name = "Instagram"
 weight = 4
 [[Languages.en.menu.main]]
+URL = "https://api.whatsapp.com/send/?phone=34620992550&text&app_absent=0"
 hasChildren = true
-name = "Pages"
-weight = 5
+name = "Whatsapp"
+weight = "5"
 [[Languages.en.menu.main]]
 URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "service"
-name = "Service"
+name = "FAQs"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Pedidos"
 weight = 6
 [Languages.fr]
 contentDir = "content/french"
