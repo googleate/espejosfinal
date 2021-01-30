@@ -1,7 +1,7 @@
 ---
 title: Hollywood 120 x 60cm Blanco
 description: Click en el nombre para ver detalles
-image: "/images/foto-tocador_01.png"
+image: "/images/foto-tocador_011.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: 120x60
 information:
