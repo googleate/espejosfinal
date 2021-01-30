@@ -12,7 +12,7 @@ information:
 - label: Color
   info: Madera
 - label: Materiales
-  info: Tablero de partículas y fibras
+  info: Tablero, partículas fibras
 - label: Iluminación
   info: 10 bombilas LED 10W
 
