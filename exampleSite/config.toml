@@ -1,11 +1,11 @@
-baseURL = "http://examplesite.org"
+baseURL = "https://espejosdemaquillaje.es/"
 disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
-theme = "airspace-hugo"
+theme = "Googleate"
 themesDir = "../.."
-title = "Airspace | Creative Agency Hugo Template"
+title = "Espejos de Maquillaje"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; www.espejosdemaquillaje.es 2021 Todos los derechos reservados"
@@ -128,15 +128,15 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "Googleate"
 contact_form_action = "#"
-description = "This is meta description"
-email = "demo@email.com"
+description = "Espejos de Maquillaje baratos. Tienda Online para pedidos, fabricamos los espejos para maquillaje y te le llevamos hasta tu puerta."
+email = "espejosdemaquillaje.es@gmail.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Madrid, España"
 logo = "images/logo.png"
 logo_width = "150px"
-mobile = "0124857985320"
+mobile = " +34 620992550"
 multi_author = false
 [params.cookies]
 enable = true
