@@ -15,7 +15,7 @@ information:
   info: 10 bombilas LED de 10W
 
 ---
-## Este modelo 120x60cm está adaptado al tocador más vendido del mercado
+## Modelo 55x55cm profesional económico
 
 #### **Parte Superior:**
 
