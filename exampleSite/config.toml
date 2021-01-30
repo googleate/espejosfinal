@@ -14,27 +14,19 @@ languageName = "En"
 weight = 1
 [[Languages.en.menu.footer]]
 URL = "about"
-name = "About"
+name = "Acerca de"
 weight = 1
 [[Languages.en.menu.footer]]
 URL = "project"
-name = "Project"
+name = "Productos"
 weight = 2
-[[Languages.en.menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[Languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
 [[Languages.en.menu.footer]]
 URL = "faq"
 name = "FAQ"
 weight = 5
 [[Languages.en.menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Pedidos"
 weight = 6
 [[Languages.en.menu.main]]
 URL = "/"
