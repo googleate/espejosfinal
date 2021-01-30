@@ -1,6 +1,6 @@
 ---
-title: "Our Project"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Nuestros modelos
+description: de espejos para maquillaje profesional
+bg_image: "/images/espejos-de-maquillaje.jpg"
+
 ---
