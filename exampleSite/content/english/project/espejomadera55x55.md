@@ -1,50 +1,48 @@
 ---
-title: Rio Furniture
-description: this is meta description
-image: images/portfolio/work1.jpg
-bg_image: images/featue-bg.jpg
+title: Economy 55x55 Madera
+description: Haga click en el nombre para más detalles
+image: "/images/espejomaderapequeno-12.jpg"
+bg_image: "/images/espejos-de-maquillaje.jpg"
 category: UI/UX Design
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+- label: Precio
+  info: 119€
+- label: Dimensiones
+  info: 55 x 55cm
+- label: Color
+  info: Madera
+- label: Materiales
+  info: Tablero de partículas y fibras
+- label: Iluminación
+  info: 10 bombilas LED 10W
 
 ---
-## Behance Website Redesign
+## Modelo Economy 55x5cm calidad profesional
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+#### **Parte Superior:**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+##### Tablero de fibra, pintura acrílica
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
+#### **Marco:**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+##### Tablero de Partículas borde de plástico
+
+#### **Material de relleno:**
+
+##### Cartón de panel de abeja (70% recliclado como mínimo)
+
+#### **Base:**
+
+##### Tablero de fibras
+
+#### **Iluminación:**
+
+##### Bombillas LED combinadas cálidas y frías para maquillaje profesional de 1.350 lumens y 10W.
+
+##### Nuestros espejos de maquillaje están construidos con los más altos estándares de seguridad y calidad del mercado. Desde los casquillos de las bombillas, hasta el pequeño interruptor y las luces LED de alta intensidad, con alternancia entre luz cálida y fría para el correcto reflejo de la piel.
+
+##### Son de 5mm de grosor, con canto pulido. Los tableros aligerados y fáciles de colgar, harán que su instalación sea rápida y sencilla. Todos los modelos son configurables para adaptarnos a tus necesidades, como un mando a distancia, un enchufe o un interruptor.
+
+#### Galería fotos del producto:
+
+![](/images/espejomaderapequeno-12.jpg)![](/images/espejomaderapequeno-22.jpg)![](/images/espejomaderapequeno-32.jpg)
