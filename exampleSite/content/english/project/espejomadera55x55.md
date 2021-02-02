@@ -1,5 +1,5 @@
 ---
-title: Beauty 55x55 Madera
+title: Beauty 55 x 55 Madera
 description: Haga click en el nombre del espejo de maquillaje
 image: "/images/espejomaderapequeno-12.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
