@@ -3,11 +3,28 @@ bg_image = "/images/espejos-de-maquillaje.jpg"
 category = "Blanco"
 description = "Haga click en el nombre del espejo de maquillaje"
 image = "/images/espejoblancopequeno-222.jpg"
-information = []
 title = "Baby Tocador Blanco"
+[[information]]
+info = "139€"
+label = "Precio"
+[[information]]
+info = "55 x 55 cm"
+label = "Dimensiones"
+[[information]]
+info = "Mesa y Silla"
+label = "Incuido"
+[[information]]
+info = "Blanco"
+label = "Color"
+[[information]]
+info = " Tablero partículas fibras"
+label = "Materiales"
+[[information]]
+info = "10 Bombillas LED 10W"
+label = "Iluminación"
 
 +++
-## Este modelo 120x60cm está adaptado al tocador más vendido del mercado
+## BABY TOCADOR DE MAQUILLAJE PARA NIÑOS
 
 #### **Parte Superior:**
 
