@@ -1,5 +1,5 @@
 ---
-title: Beauty 55 x 55cm Blanco
+title: Beauty 55 x 55 Blanco
 description: Haga click en el nombre del espejo de maquillaje
 image: "/images/espejoblancopequeno-12.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
