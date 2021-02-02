@@ -3,7 +3,7 @@ bg_image = "/images/espejos-de-maquillaje.jpg"
 category = "Negro"
 description = "Haga click en el nombre del espejo de maquillaje"
 image = "/images/espejonegropequeno-12.jpg"
-title = "Beauty 55x55 Negro"
+title = "Beauty 55 x 55 Negro"
 [[information]]
 info = "119€"
 label = "Precio"
