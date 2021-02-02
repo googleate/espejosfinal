@@ -31,4 +31,5 @@ fields:
     name: info
     label: info
 pages:
+- exampleSite/content/english/project/baby-tocador-blanco.md
 - exampleSite/content/english/project/beauty-55x55-negro.md
