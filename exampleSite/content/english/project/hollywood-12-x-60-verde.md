@@ -3,7 +3,7 @@ bg_image = "/images/espejos-de-maquillaje.jpg"
 category = "Verde"
 description = "Haga click en el nombre del espejo de maquillaje"
 image = "/images/espejoverde-12.jpg"
-title = "Hollywood 120 x 60 cm Verde"
+title = "Hollywood 120 x 60 Verde"
 [[information]]
 info = "199€"
 label = "Precio"
