@@ -2,7 +2,7 @@
 bg_image = "/images/espejos-de-maquillaje.jpg"
 category = "Blanco"
 description = "Haga click en el nombre del espejo de maquillaje"
-image = "/images/espejoblancoconjunto-22.jpg"
+image = "/images/espejoblancopequeno-222.jpg"
 information = []
 title = "Baby Tocador Blanco"
 
