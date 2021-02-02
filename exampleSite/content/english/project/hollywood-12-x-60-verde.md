@@ -1,12 +1,24 @@
 +++
 bg_image = "/images/espejos-de-maquillaje.jpg"
-category = ""
+category = "Verde"
 description = "Haga click en el nombre del espejo de maquillaje"
 image = "/images/espejoverde-12.jpg"
-title = "Hollywood 12 x 60 Verde"
+title = "Hollywood 120 x 60 Verde"
 [[information]]
 info = "199€"
 label = "Precio"
+[[information]]
+info = "120 x 60 cm"
+label = "Dimensiones"
+[[information]]
+info = "Verde"
+label = "Color"
+[[information]]
+info = "Tablero, partículas fibras"
+label = "Materiales"
+[[information]]
+info = "13 bombillas LED 10W"
+label = "Iluminación"
 
 +++
 ## Este modelo 120x60cm está adaptado al tocador más vendido del mercado
@@ -37,4 +49,4 @@ label = "Precio"
 
 #### Galería de fotos del producto:
 
-![](/images/espejoverde-12.jpg)
+![](/images/espejoverde-12.jpg)![](/images/espejoverde-22.jpg)![](/images/espejoverde-32.jpg)
