@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/espejos-de-maquillaje.jpg"
 category = "Negro"
-description = "Click para ver espejo de maquillaje"
+description = "Haga click en el nombre del espejo de maquillaje"
 image = "/images/espejonegropequeno-12.jpg"
 title = "Beauty 55x55 Negro"
 [[information]]
