@@ -3,8 +3,22 @@ bg_image = "/images/espejos-de-maquillaje.jpg"
 category = "Negro"
 description = "Haga click en el nombre del espejo de maquillaje"
 image = "/images/espejoblancopequeno-223.jpg"
-information = []
 title = "Baby Tocador Negro"
+[[information]]
+info = "139€"
+label = "Precio"
+[[information]]
+info = "Negro"
+label = "Color"
+[[information]]
+info = "55 x 55 cm"
+label = "Dimensiones"
+[[information]]
+info = "Tablero, partículas fibras"
+label = "Materiales"
+[[information]]
+info = "10 bombillas LED de 10W"
+label = "Iluminación"
 
 +++
 ## BABY TOCADOR DE MAQUILLAJE PARA NIÑOS
