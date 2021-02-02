@@ -1,6 +1,6 @@
 ---
 title: Economy 55x55 Madera
-description: Click en el nombre para ver detalles o la lupa para ampliar
+description: Haga click en el nombre del espejo de maquillaje
 image: "/images/espejomaderapequeno-12.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Madera

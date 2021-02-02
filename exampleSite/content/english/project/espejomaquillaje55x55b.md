@@ -1,6 +1,6 @@
 ---
 title: Economy 55 x 55cm Blanco
-description: Click en el nombre para ver detalles o la lupa para ampliar
+description: Haga click en el nombre del espejo de maquillaje
 image: "/images/espejoblancopequeno-12.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Blanco
