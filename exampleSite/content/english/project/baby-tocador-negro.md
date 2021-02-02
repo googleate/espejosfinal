@@ -7,7 +7,7 @@ information = []
 title = "Baby Tocador Negro"
 
 +++
-## Este modelo 120x60cm está adaptado al tocador más vendido del mercado
+## BABY TOCADOR DE MAQUILLAJE PARA NIÑOS
 
 #### **Parte Superior:**
 
