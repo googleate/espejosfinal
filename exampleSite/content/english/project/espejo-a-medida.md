@@ -3,8 +3,19 @@ bg_image = "/images/espejos-de-maquillaje.jpg"
 category = ""
 description = "Haga click en el nombre del espejo de maquillaje"
 image = "/images/espejo-medida.jpg"
-information = []
 title = "Espejo a Medida"
+[[information]]
+info = "Según medidas"
+label = "Precio"
+[[information]]
+info = "Según pedido"
+label = "Medidas"
+[[information]]
+info = "Tablero, partículas fibras"
+label = "Materiales"
+[[information]]
+info = "Bombillas LED de 10W"
+label = "Iluminación"
 
 +++
 ## Este modelo puedes elegir las medidas deseadas y el precio será acorde a ellas
