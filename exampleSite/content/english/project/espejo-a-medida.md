@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/espejos-de-maquillaje.jpg"
-category = "Negro, Blanco, Madera"
+category = ""
 description = "Haga click en el nombre del espejo de maquillaje"
 image = "/images/espejo-medida.jpg"
 information = []
