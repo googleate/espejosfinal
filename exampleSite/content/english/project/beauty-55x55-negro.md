@@ -17,7 +17,7 @@ label = "Color"
 info = "Tablero, partículas fibras"
 label = "Materiales"
 [[information]]
-info = " 10 bombilas LED de 10W"
+info = " 10 bombilas LED de 4W"
 label = "Iluminación"
 
 +++
