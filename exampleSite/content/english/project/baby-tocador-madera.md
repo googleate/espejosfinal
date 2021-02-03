@@ -51,3 +51,5 @@ label = "Iluminación"
 ##### Son de 5mm de grosor, con canto pulido. Los tableros aligerados y fáciles de colgar, harán que su instalación sea rápida y sencilla. Todos los modelos son configurables para adaptarnos a tus necesidades, como un mando a distancia, un enchufe o un interruptor.
 
 #### Galería de fotos del producto:
+
+![](/images/espejomaderaconjunto-12.jpg)![](/images/espejomaderaconjunto-22.jpg)
