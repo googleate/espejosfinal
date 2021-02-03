@@ -54,7 +54,7 @@ URL = "contact"
 name = "Pedidos"
 weight = 6
 [[Languages.en.menu.main]]
-URL = "FAQ"
+URL = "faq"
 name = "Preguntas"
 weight = "7"
 [Languages.fr]
