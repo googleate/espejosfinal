@@ -14,7 +14,7 @@ information:
 - label: Materiales
   info: Tablero, partículas fibras
 - label: Iluminación
-  info: 10 bombilas LED 10W
+  info: 10 bombilas LED 4W
 
 ---
 ## Modelo Economy 55x5cm calidad profesional
