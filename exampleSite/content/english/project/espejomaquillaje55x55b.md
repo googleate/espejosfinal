@@ -14,7 +14,7 @@ information:
 - label: Materiales
   info: Tablero, partículas fibras
 - label: Iluminación
-  info: 10 bombilas LED de 6W
+  info: 10 bombilas LED de 4W
 
 ---
 ## Modelo 55x55cm profesional económico
