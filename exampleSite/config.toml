@@ -53,6 +53,10 @@ weight = "5"
 URL = "contact"
 name = "Pedidos"
 weight = 6
+[[Languages.en.menu.main]]
+URL = "FAQ"
+name = "Preguntas"
+weight = "7"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
