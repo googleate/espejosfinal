@@ -2,7 +2,7 @@
 bg_image = "/images/espejos-de-maquillaje.jpg"
 category = "Blanco"
 description = "Haga click en el nombre del espejo de maquillaje"
-image = "/images/espejo-medida.jpg"
+image = "/images/foto-tocador_022.png"
 title = "Espejo a Medida"
 [[information]]
 info = "Según medidas"
