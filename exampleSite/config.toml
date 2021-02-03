@@ -50,13 +50,13 @@ hasChildren = true
 name = "Whatsapp"
 weight = "5"
 [[Languages.en.menu.main]]
-URL = "contact"
-name = "Pedidos"
-weight = 6
-[[Languages.en.menu.main]]
 URL = "faq"
 name = "Preguntas"
 weight = "7"
+[[Languages.en.menu.main]]
+URL = "contact"
+name = "Pedidos"
+weight = 6
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
