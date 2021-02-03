@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/espejos-de-maquillaje.jpg"
-category = ""
-description = ""
+category = "Madera"
+description = "Haga click en el nombre del espejo de maquillaje"
 image = "/images/baby-madera.jpg"
 title = "Baby Tocador Madera"
 [[information]]
