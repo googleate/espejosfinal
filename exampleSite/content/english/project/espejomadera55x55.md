@@ -45,4 +45,4 @@ information:
 
 #### Galería fotos del producto:
 
-![](/images/espejomaderapequeno-12.jpg)![](/images/espejomaderapequeno-22.jpg)![](/images/espejomaderapequeno-32.jpg)
+![](/images/espejomaderapequeno-12.jpg)![](/images/espejomaderapequeno-22.jpg)![](/images/espejomaderapequeno-32.jpg)![](/images/espejomaderapequeno2.jpg)![](/images/espejomaderapequeno-3-1-2.jpg)
