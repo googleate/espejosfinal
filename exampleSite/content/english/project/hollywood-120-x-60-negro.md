@@ -49,4 +49,4 @@ label = "Iluminación"
 
 #### Galería de fotos del producto:
 
-![](/images/espejonegro-12.jpg)![](/images/espejonegro-22.jpg)![](/images/espejonegro-32.jpg)
+![](/images/espejonegro-12.jpg)![](/images/espejonegro-22.jpg)![](/images/espejonegro-32.jpg)![](/images/foto-tocador-negro-con-medidas2.jpg)
