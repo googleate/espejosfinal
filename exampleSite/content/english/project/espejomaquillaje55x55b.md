@@ -45,4 +45,4 @@ information:
 
 #### Galería fotos del producto:
 
-![](/images/espejoblancopequeno-22.jpg)![](/images/espejoblancopequeno-12.jpg)![](/images/espejoblancopequeno-32.jpg)
+![](/images/espejoblancopequeno-22.jpg)![](/images/espejoblancopequeno-12.jpg)![](/images/espejoblancopequeno-32.jpg)![](/images/espejoblancopequeno2.jpg)![](/images/espejoblancopequeno-3-1-2.jpg)
