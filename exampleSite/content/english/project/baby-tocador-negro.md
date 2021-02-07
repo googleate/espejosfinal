@@ -51,4 +51,4 @@ label = "Iluminación"
 
 ![](/images/espejonegroconjunto-12.jpg)
 
-![](/images/espejonegroconjunto-22.jpg)
+![](/images/espejonegroconjunto-22.jpg)![](/images/espejobegroconjunto2.jpg)
