@@ -49,4 +49,4 @@ label = "Iluminación"
 
 #### Galería de fotos del producto:
 
-![](/images/espejomadera-12.jpg)![](/images/espejomadera-22.jpg)![](/images/espejomadera-32.jpg)
+![](/images/espejomadera-12.jpg)![](/images/espejomadera-22.jpg)![](/images/espejomadera-32.jpg)![](/images/foto-tocador-marron-con-medidas2.jpg)![](/images/foto-tocador-verde-lateral-con-medidas2.jpg)
