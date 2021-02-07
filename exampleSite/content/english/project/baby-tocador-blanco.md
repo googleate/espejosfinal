@@ -52,4 +52,4 @@ label = "Iluminación"
 
 #### Galería de fotos del producto:
 
-![](/images/espejoblancoconjunto-22.jpg)![](/images/espejoblancoconjunto-12.jpg)
+![](/images/espejoblancoconjunto-22.jpg)![](/images/espejoblancoconjunto-12.jpg)![](/images/espejoblancoconjunto2.jpg)
