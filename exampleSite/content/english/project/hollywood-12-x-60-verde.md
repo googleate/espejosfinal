@@ -49,4 +49,4 @@ label = "Iluminación"
 
 #### Galería de fotos del producto:
 
-![](/images/espejoverde-12.jpg)![](/images/espejoverde-22.jpg)![](/images/espejoverde-32.jpg)
+![](/images/espejoverde-12.jpg)![](/images/espejoverde-22.jpg)![](/images/espejoverde-32.jpg)![](/images/foto-tocador-verde-con-medidas2.jpg)![](/images/foto-tocador-verde-lateral-con-medidas2.jpg)
