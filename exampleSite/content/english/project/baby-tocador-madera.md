@@ -52,4 +52,4 @@ label = "Iluminación"
 
 #### Galería de fotos del producto:
 
-![](/images/espejomaderaconjunto-12.jpg)![](/images/espejomaderaconjunto-22.jpg)
+![](/images/espejomaderaconjunto-12.jpg)![](/images/espejomaderaconjunto-22.jpg)![](/images/espejomaderaconjunto-1-1-2.jpg)
