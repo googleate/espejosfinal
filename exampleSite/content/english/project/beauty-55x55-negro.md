@@ -49,4 +49,4 @@ label = "Iluminación"
 
 #### Galería fotos del producto:
 
-![](/images/espejonegropequeno-12.jpg)![](/images/espejonegropequeno-22.jpg)![](/images/espejonegropequeno-32.jpg)
+![](/images/espejonegropequeno-12.jpg)![](/images/espejonegropequeno-22.jpg)![](/images/espejonegropequeno-32.jpg)![](/images/espejonegropequeno2.jpg)![](/images/espejonegropequeno-3-1-2.jpg)
