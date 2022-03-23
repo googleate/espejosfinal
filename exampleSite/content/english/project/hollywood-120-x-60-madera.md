@@ -5,7 +5,7 @@ description = "Haga click en el nombre del espejo de maquillaje"
 image = "/images/espejomadera-12.jpg"
 title = "Hollywood 120 x 60 Madera"
 [[information]]
-info = "199€"
+info = "238€"
 label = "Precio"
 [[information]]
 info = "120 x 60 cm"
