@@ -6,7 +6,7 @@ bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Madera
 information:
 - label: Precio
-  info: 119€
+  info: 139€
 - label: Dimensiones
   info: 55 x 55cm
 - label: Color
