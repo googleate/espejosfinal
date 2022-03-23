@@ -5,7 +5,7 @@ description = "Haga click en el nombre del espejo de maquillaje"
 image = "/images/espejoblancopequeno-222.jpg"
 title = "Baby Tocador Blanco"
 [[information]]
-info = "139€"
+info = "166€"
 label = "Precio"
 [[information]]
 info = "55 x 55 cm"
