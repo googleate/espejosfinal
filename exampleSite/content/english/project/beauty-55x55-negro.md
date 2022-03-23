@@ -5,7 +5,7 @@ description = "Haga click en el nombre del espejo de maquillaje"
 image = "/images/espejonegropequeno-12.jpg"
 title = "Beauty 55 x 55 Negro"
 [[information]]
-info = "119€"
+info = "139€"
 label = "Precio"
 [[information]]
 info = "55 x 55 xm"
